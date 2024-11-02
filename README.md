@@ -4,7 +4,7 @@ This circuit will pulse an IR (940nm) LED at a frequency of 38kHz and then use a
 Components Used:
  - 1x IR (940nm) LED
  - 1x LM359 Op-Amp
- - 1x TSOP38238 Infrarared Reciever
+ - 1x TSOP38238 Infrarared Reciever {can be sourced at https://thepihut.com/products/ir-infrared-receiver-tsop38238}
  - 1x Diode
  - 1x 10 ohm resistor
  - 1x PWM capable microcontroller
