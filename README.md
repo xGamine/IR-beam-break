@@ -12,7 +12,8 @@ Components Used:
 
 Circuit Diagram:
 
-*insert circuit diagram here*
+<img width="886" alt="image" src="https://github.com/user-attachments/assets/2949fab4-ac55-4210-bb0d-f8e80a1377c7">
+
 
 
 
