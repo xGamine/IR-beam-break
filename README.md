@@ -25,6 +25,11 @@ Diagram Notes -- Pi Pico can be substituted for another timing circuit so long a
 Diagram Notes -- The opamp only digitises the output signal from the IR Reciever to make it easier to input into logic systems or microcontrollers and can be omitted if you would like an analogue output
 
 
+Instructions:
+
+ - Program the microcontroller (MicoPython script attached for users using a Pi Pico 1, Pico 1 W or Pico 2) - this step can be skipped if not using a microcontroller for PWM signal
+ - Connect the components as shown above
+
 
 
 
