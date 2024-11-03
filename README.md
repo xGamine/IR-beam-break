@@ -15,9 +15,13 @@ Circuit Diagram:
 <img width="886" alt="image" src="https://github.com/user-attachments/assets/2949fab4-ac55-4210-bb0d-f8e80a1377c7">
 
 Diagram Notes -- Vcc can be anywhere from 3-5V DC 
+
 Diagram Notes -- The TSOP38238's pins are in the incorrect order when compared to the physical component, see the datasheet for more info: https://www.vishay.com/docs/82491/tsop382.pdf
+
 Diagram Notes -- Pi Pico pin numbers are physical pin numbers and not GPIO pin numbers, Pi Pico Pinout: https://pico.pinout.xyz/
+
 Diagram Notes -- Pi Pico can be substituted for another timing circuit so long as it outputs roughly 38kHz at 3-5v DC with a 50% duty cycle
+
 Diagram Notes -- The opamp only digitises the output signal from the IR Reciever to make it easier to input into logic systems or microcontrollers and can be omitted if you would like an analogue output
 
 
