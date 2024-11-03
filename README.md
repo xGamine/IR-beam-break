@@ -7,7 +7,7 @@ Components Used:
  - 1x TSOP38238 Infrarared Reciever {can be sourced at https://thepihut.com/products/ir-infrared-receiver-tsop38238}
  - 1x Diode
  - 1x 10 ohm resistor
- - 1x PWM capable microcontroller or a timing circuit that outputs a frequency of 38kHz with a 50% duty cycle (I just used a Raspberry Pi Pico 2 because I didn't have the correct resistor combinations to make a 38kHz timing circuit)
+ - 1x PWM capable microcontroller + the means to program it or swap the microcontroller for a timing circuit that outputs a frequency of 38kHz with a 50% duty cycle (I just used a Raspberry Pi Pico 2 because I didn't have the correct resistor combinations to make a 38kHz timing circuit)
  - Breadboard + wire or equivalent (or just solder it)
 
 Circuit Diagram:
