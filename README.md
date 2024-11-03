@@ -27,7 +27,7 @@ Diagram Notes -- The opamp only digitises the output signal from the IR Reciever
 
 Instructions:
 
- - Program the microcontroller (MicoPython script attached in main/main.py for users using a Pi Pico 1, Pico 1 W or Pico 2) - this step can be skipped if not using a microcontroller for PWM signal
+ - Program the microcontroller (MicoPython script attached in [main/main.py]([url](https://github.com/xGamine/IR-beam-break/blob/ee8a316baf3f47858eb7eccd948987cad76be986/main.py)) for users using a Pi Pico 1, Pico 1 W or Pico 2) - this step can be skipped if not using a microcontroller for PWM signal
  - Connect the components as shown above
 
 
